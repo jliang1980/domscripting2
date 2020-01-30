@@ -1,5 +1,4 @@
 
-
 function onReady() {
 let id = 0;
 const toDos = [];
